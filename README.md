@@ -31,8 +31,11 @@ It features a dark mode interface, both *simple and scientific modes*, degree/ra
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
+###  Clone the Repository
 
 ```bash
 git clone https://github.com/akash098p/Calculator.git
-cd ultimate-scientific-calculator
+cd CALCULATOR
+python CALCULATOR.py
+
+
