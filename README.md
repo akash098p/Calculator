@@ -34,5 +34,5 @@ It features a dark mode interface, both *simple and scientific modes*, degree/ra
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/ultimate-scientific-calculator.git
+git clone https://github.com/akash098p/Calculator.git
 cd ultimate-scientific-calculator
