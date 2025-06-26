@@ -20,10 +20,10 @@ It features a dark mode interface, both *simple and scientific modes*, degree/ra
 ## 📸 Screenshots
 
 ### 🔘 Simple Mode
-![Simple Mode Screenshot](images/simple_mode.png)
+![Simple Mode Screenshot](simple_mode.png)
 
 ### 🧠 Scientific Mode
-![Scientific Mode Screenshot](images/scientific_mode.png)
+![Scientific Mode Screenshot](scientific_mode.png)
 
 > Make sure to upload your images to the images/ folder and update the filenames if needed.
 
