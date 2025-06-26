@@ -25,7 +25,6 @@ It features a dark mode interface, both *simple and scientific modes*, degree/ra
 ### 🧠 Scientific Mode
 ![Scientific Mode Screenshot](scientific_mode.png)
 
-> Make sure to upload your images to the images/ folder and update the filenames if needed.
 
 ---
 
